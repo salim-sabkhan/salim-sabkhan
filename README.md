@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salim-sabkhan" alt="salim-sabkhan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://darling-pegasus-67a428.netlify.app/](https://darling-pegasus-67a428.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://papaya-sunburst-2700e1.netlify.app/](https://papaya-sunburst-2700e1.netlify.app/)
 
 - 💬 Ask me about **react js, node js, html, css, javascript**
 
 - 📫 How to reach me **sabkhansalim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XtxoHCqkEOryPd6Ig1R-WXdOd44Pn10p/view?usp=share_link](https://drive.google.com/file/d/1XtxoHCqkEOryPd6Ig1R-WXdOd44Pn10p/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19ainns5oA-KNBUiz6--RuXYwLoybbevs/view?usp=sharing](https://drive.google.com/file/d/19ainns5oA-KNBUiz6--RuXYwLoybbevs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
