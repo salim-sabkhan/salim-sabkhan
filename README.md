@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salim-sabkhan" alt="salim-sabkhan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://papaya-sunburst-2700e1.netlify.app/](https://papaya-sunburst-2700e1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://papaya-sunburst-2700e1.netlify.app/](https://portfolio-folder-alpha.vercel.app/)
 
 - 💬 Ask me about **react js, node js, html, css, javascript**
 
